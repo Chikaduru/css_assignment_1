@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'pinyon_scriptregular';
+    src: url('../fonts/pinyonscript-regular-webfont.woff2') format('woff2'),
+         url('../fonts/pinyonscript-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+h1,h3,h4,h5,h6 {
+ 	color: white ;
+ 	font-family: 'pinyon_scriptregular';
+}
+
+body{
+	background-color: black;
+} 
+main{
+	font-family: sans-serif ;
+    width: 850px;
+    margin-right:auto;
+    margin-left: auto;
+
+}
+
+
+ 
+h1{
+	text-align: center;
+}
+
+.siteheader{
+	background-color: red;
+	padding: 1px;
+}
+
+
+#ordersection{
+	background-color: white;
+	padding: 1px; 
+}
+
+#tables{
+	background-color: black;
+	
+}
+
+#container{
+background: white;
+width: 850px;
+margin: auto;
+padding-top: 20px;
+}
+
+#container table{
+width: 750px;
+margin: auto;
+border-collapse: collapse;
+}
+#container table tr{
+height: 45px;
+color: black;
+}
+#container table th,
+#container table td{
+border: 1px solid black;
+text-align: center;
+width: 30px;
+}
+
+#container table td:hover{
+background: red;
+}
+
+
+
+#sitefooter{
+	background-color: red;
+	text-align: center;
+	padding:1px;
+
+}
+h2{
+	text-align: center;	
+}
+th{
+	color: white;
+}

@@ -1,0 +1,68 @@
+
+body{
+	background: black;
+	font-family: sans-serif;
+	background-size: center;
+	margin: auto;
+}
+
+
+
+
+ h1,h2,h3,h4,h5,h6 {
+ 	color: red
+ }
+
+.siteheader{
+	background color:red; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#siteheader h2
+#sitefooter p{
+	color:white;
+}
+#content h2{}
+
+
+
+
+
+width: 800px
+margin-right:auto 
+margin-left: auto
+
+
+
+
+
+
+
+
+
+#table tr{
+	height: 50px;
+}
+#table td{
+	border: 1px solid black;
+	color: white;
+	text-align: 
+}
